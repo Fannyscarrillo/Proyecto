@@ -1,0 +1,139 @@
+body {
+  text-align: justify;
+  width: 960px;
+  margin: auto;
+}
+
+header,
+footer {
+  border: 0px lightgray;
+  display: block;
+  background: #C627B0;
+  text-align: center;
+  font-family: Sienthas ;
+  clear: both;
+}
+
+h1 {
+  color: #4C1D75;
+  font-size: 130px;
+  font-weight: regular;
+  font-family: Sienthas;
+}
+
+h2 {
+  font-size: 40px;
+  color: #CEA4F3;
+  font-weight: lighter;
+  font-family: Cute Egg;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: lighter;
+  font-family: Best School;
+  color: #4C1D75;
+}
+
+h4 {
+  font-size: 15px;
+  font-weight: lighter;
+  font-family:Best School;
+  color: #CEA4F3;
+}
+section {
+  border: 1px solid black;
+  width: 71%;
+  display: inline_block;
+  float: left;
+  margin: 1px;
+}
+
+article {
+  background: lightyellow;
+  padding: 5px;
+  margin: 10px;
+  background: #C627B0;
+  margin-bottom: 10px;
+  border: 1px solid lightyellow;
+}
+
+article footer {
+  padding: 10px;
+  margin: 10px;
+  color: black;
+  background: #F5C4EF;
+  font-family:Best School;
+  font-size: 12px;
+  font-weight: lighter;
+  text-align: justify;
+  border: 1px solid lightblue;
+}
+
+aside {
+  border: 1px solid black;
+  width: 28%;
+  display: inline_block;
+  float: left;
+  background: #C627B0;
+  text-align: right;
+  margin: 1px;
+}
+
+p {
+  color: #4C1D75;
+  font-family: Best School;
+  font-weight: lighter;
+  font-size: 15px;
+  padding: 5px;
+  margin: 10px;
+  background-color: #F5C4EF;
+}
+
+a {
+  color: #CEA4F3;
+  padding: 5px;
+  display: block;
+  font-family: Cute Egg;
+}
+
+time {
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 10px;
+  color: #999;
+  padding: 20px;
+  font-style: italic;
+}
+
+
+img {
+  border: 2px solid black;
+}
+
+figure {
+  padding: 0px;
+  margin: 0px;
+}
+
+.menu {
+  border: 3px solid #C627B0;
+  font-size: medium;
+  font-family: sans-serif;
+  color: white;
+  background: #ffffff
+
+}
+
+.menu li {
+  padding: 10px;
+  margin: 0px;
+  background-color: #C627B0;
+  display: inline-block;
+  list-style: none;
+  align-items: center;
+  color: #CEA4F3;
+  font-size: 15px;
+  font-family:  Cute Egg;
+
+}
